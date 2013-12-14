@@ -1,0 +1,11 @@
+commit 5f9cd85069966689995a9e2c8729eb1cda203e01
+Author: mimi <mimchiang@gmail.com>
+Date:   Fri Dec 13 10:55:38 2013 -0800
+
+    Story: Changed premise
+
+commit 50def2842ddd8148e1f6dbcfec5c103d0994827c
+Author: mimi <mimchiang@gmail.com>
+Date:   Fri Dec 13 10:51:54 2013 -0800
+
+    iInitial commit:wqq:q:q:q:q!
